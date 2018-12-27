@@ -1,2 +1,3 @@
-# basic_of_golang
-Basic of Golang
+# basic-of-golang
+
+Learning Golang
